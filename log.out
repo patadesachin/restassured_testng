@@ -1,0 +1,444 @@
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearere00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: text/html;charset=utf-8
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: text/html;charset=utf-8
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: text/html;charset=utf-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: text/html;charset=utf-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: text/html;charset=utf-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: text/html;charset=utf-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: text/html;charset=utf-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: text/html;charset=utf-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: text/html;charset=utf-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: text/html;charset=utf-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: text/html;charset=utf-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: text/html;charset=utf-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: text/html;charset=utf-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: text/html;charset=utf-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: text/html;charset=utf-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: text/html;charset=utf-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-4] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-4] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-4] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-4] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-4] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-4] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-4] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-4] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-4] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-4] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - OAuth Token Received = Bearer e00deb7c-0427-4c19-b5cc-e8cc5c9c91fc
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-4] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-4] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-4] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json;charset=UTF-8
+[TestNG-test=DemoTest-4] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream

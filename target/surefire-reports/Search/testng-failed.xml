@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="10" guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Search]" parallel="methods">
+  <listeners>
+    <listener class-name="utils.ExtentReportListener"/>
+  </listeners>
+  <test name="DemoTest(failed)" parallel="methods">
+    <classes>
+      <class name="test.TestSearch">
+        <methods>
+          <include name="validate_Category_Schema"/>
+          <include name="BeforeSuite"/>
+        </methods>
+      </class> <!-- test.TestSearch -->
+    </classes>
+  </test> <!-- DemoTest(failed) -->
+</suite> <!-- Failed suite [Search] -->
