@@ -10,14 +10,14 @@ public class BaseTest {
 
 	public static final Logger logger = Logger.getLogger(BaseTest.class);
 	protected static String access_Token,accessToken;
-	String country_property = "uk";
-	
+
 
 	@BeforeSuite(alwaysRun=true)
 	public void BeforeSuite() throws Exception
 	{
-        PropertyConfigurator.configure("src\\main\\resources\\log4j.properties");
-		PropertiesManager.initializeProperties("uk");
+		PropertyConfigurator.configure("src\\main\\resources\\log4j.properties");
+//	System.out.println(" Sniff + Regression" + System.getProperty("environment"));
+		PropertiesManager.initializeProperties(System.getProperty("jenkins.country_config"));
 	    logger.info("Properties Initialized");
 		System.out.println(PropertiesManager.getProperty("baseURI").toString());
 		PostToken postToken = new PostToken(PropertiesManager.getProperty("baseURI"));
@@ -34,18 +34,4 @@ public class BaseTest {
 	    logger.info("OAuth Token Received = " + accessToken);
 	}
 
-	// To do retrieve values from jenkins 
-	public String load_countryProperty()
-	{
-		if (country_property == "")
-		{
-			return country_property="";
-		}
-		else if(country_property == ""){
-			return country_property="";
-		}
-		else {
-			return "";
-		}
-	}
 }

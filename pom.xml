@@ -85,10 +85,10 @@
           			<artifactId>maven-surefire-plugin</artifactId>
           			<version>2.14.1</version>
           			<configuration>
-                      <properties>
+                       <systemPropertyVariables>
                         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>      
-                        <jenkins.country_config>${env.contry_config}</jenkins.country_config>      
-                      </properties>
+                        <jenkins.country_config>${country_config}</jenkins.country_config>      
+                      </systemPropertyVariables>
         			  <forkMode>never</forkMode>	
         			  <suiteXmlFiles>
                         	<suiteXmlFile>testng.xml</suiteXmlFile>                        

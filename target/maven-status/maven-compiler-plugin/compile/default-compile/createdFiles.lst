@@ -1,0 +1,10 @@
+api\auth\PostToken.class
+api\SearchProducts\GetAvailableSuggestion.class
+utils\CSVAnnotation$CSVFileParameters.class
+utils\PropertiesManager$country.class
+api\BaseAPI.class
+utils\CSVAnnotation.class
+utils\ExtentReportListener.class
+utils\GenericDataProvider.class
+utils\PropertiesManager.class
+api\SearchProducts\GetCategorySearch.class
